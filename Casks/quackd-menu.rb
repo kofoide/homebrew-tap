@@ -1,6 +1,6 @@
 cask "quackd-menu" do
-  version "1.6.0"
-  sha256 "78cd6de4208b1a855320c8b106e274c335690681a637cd67c25ebea08112514e"
+  version "1.6.1"
+  sha256 "4b04109e25e188eaff966007508b8227db73f56aabea5c0ea43ed293559c36d4"
 
   url "https://github.com/kofoide/quackd/releases/download/v#{version}/Quackd-#{version}.zip"
   name "Quackd"

@@ -3,8 +3,8 @@
 class Quackd < Formula
   desc "Run a DuckDB Quack server as a macOS launchd service"
   homepage "https://github.com/kofoide/quackd"
-  url "https://github.com/kofoide/quackd/archive/refs/tags/v1.6.4.tar.gz"
-  sha256 "368bfac4688df8294e95734f9a1b5f31c97118bd72c7afb229c6ff25a63a31b0"
+  url "https://github.com/kofoide/quackd/archive/refs/tags/v1.6.5.tar.gz"
+  sha256 "6645c253ac642abbaadb8b06015bdc3da213c57a24c3fb5f99b78f011a8a7292"
   license "MIT"
 
   depends_on :macos
